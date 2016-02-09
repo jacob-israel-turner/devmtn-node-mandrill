@@ -1,0 +1,20 @@
+{
+  "name": "node-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "mandrill-api": "^1.0.45"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "compile": "echo THISISAREALLYLONGCOMMAND"
+  },
+  "author": "",
+  "license": "ISC"
+}
